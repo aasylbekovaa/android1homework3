@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">android1homework3</string>
+    <string name="image_one">image.one</string>
+    <string name="image_1">image.1</string>
+    <string name="image_2">image.2</string>
+    <string name="image_3">image.3</string>
+    <string name="stella">Stella</string>
+    <string name="flora">Flora</string>
+    <string name="bloom">Bloom</string>
+</resources>
